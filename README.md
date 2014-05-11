@@ -10,7 +10,7 @@ This repository is created for storing the **source file** (NOT **PDF**) of the 
 File format
 ===========
 
-Please make sure the document is following the liciense of **Creative Commons** like:
+Please make sure the document is following the license of **Creative Commons** like:
 
 **Attribution** - **NonCommercial** - **ShareAlike**
 
